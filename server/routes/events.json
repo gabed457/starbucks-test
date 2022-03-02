@@ -1,0 +1,92 @@
+[
+    {
+        "event_id": 1,
+        "type": "MANUAL",
+        "payload": {
+            "time": "200ms",
+            "status": "FAILED",
+            "catalog_id": 1
+        }
+    },
+    {
+        "event_id": 2,
+        "type": "AUTOMATIC",
+        "payload": {
+            "time": "250ms",
+            "status": "FAILED",
+            "catalog_id": 2
+        }
+    },
+    {
+        "event_id": 3,
+        "type": "MANUAL",
+        "payload": {
+            "time": "300ms",
+            "status": "FAILED",
+            "catalog_id": 3
+        }
+    },
+    {
+        "event_id": 4,
+        "type": "AUTOMATIC",
+        "payload": {
+            "time": "201ms",
+            "status": "SUCCEEDED",
+            "catalog_id": 4
+        }
+    },
+    {
+        "event_id": 5,
+        "type": "AUTOMATIC",
+        "payload": {
+            "time": "1200ms",
+            "status": "FAILED",
+            "catalog_id": 12
+        }
+    },
+    {
+        "event_id": 6,
+        "type": "AUTOMATIC",
+        "payload": {
+            "time": "1000ms",
+            "status": "SUCCEEDED",
+            "catalog_id": 1
+        }
+    },
+    {
+        "event_id": 7,
+        "type": "HYBRID",
+        "payload": {
+            "time": "",
+            "status": "PENDING",
+            "catalog_id": 2
+        }
+    },
+    {
+        "event_id": 8,
+        "type": "AUTOMATIC",
+        "payload": {
+            "time": "20ms",
+            "status": "SUCCEEDED",
+            "catalog_id": 3
+        }
+    },
+    {
+        "event_id": 9,
+        "type": "AUTOMATIC",
+        "payload": {
+            "time": "200ms",
+            "status": "FAILED",
+            "catalog_id": 11
+        }
+    },
+    {
+        "event_id": 10,
+        "type": "AUTOMATIC",
+        "payload": {
+            "time": "20ms",
+            "status": "SUCCEEDED",
+            "catalog_id": 5
+        }
+    }
+]
